@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "C:\\Program Files (x86)\\Python38-32\\python.exe",
+    "sync.autoDownload": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "cornflakes.linter.executablePath": "C:\\Program Files (x86)\\Python38-32\\Scripts\\flake8",
+    "python.jediEnabled": false,
+    "python.formatting.provider": "black",
+    "python.formatting.blackPath": "C:\\Program Files (x86)\\Python38-32\\Scripts\\black",
+    "python.formatting.blackArgs": [
+        "--line-length=90"
+    ],
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+}
